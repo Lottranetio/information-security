@@ -1,1 +1,2 @@
-# information-security
+# Information Security
+Лабораторные работы по дисциплине "Информационная безопасность"
